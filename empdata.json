@@ -9,12 +9,20 @@
       "Ultimate": "Curse of the Sad Mummy"
     },
     {
-      "Champion": "Brielle Williamson",
-      "Title": "Integration Specialist",
-      "Sex": "$372,000",
-      "Region": "2012/12/02",
-      "Role": "New York",
-      "Ultimate": "4804"
+      "Champion": "Anivia",
+      "Title": "The Cryophoenix",
+      "Sex": "Female",
+      "Region": "Freljord",
+      "Role": "Mage",
+      "Ultimate": "Glacial Storm"
+    },
+    {
+      "Champion": "Annie",
+      "Title": "The Dark Child",
+      "Sex": "Female",
+      "Region": "Runeterra",
+      "Role": "Mage",
+      "Ultimate": "Summon:Tibbers"
   
     }
   ]
