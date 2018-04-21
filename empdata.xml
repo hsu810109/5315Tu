@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+  <champions>
   <data>
-    <Champion>Amumu</Champion>
+    <NME>Amumu</NME>
     <Title>The Sad Mummy</Title>
     <Sex>Male</Sex>
     <Region>Shurima</Region>
@@ -8,7 +9,7 @@
     <Ultimate>Curse of the Sad Mummy</Ultimate>
   </data>
   <data>
-    <Champion>Anivia</Champion>
+    <NME>Anivia</NME>
     <Title>The Cryophoenix</Title>
     <Sex>Female</Sex>
     <Region>Freljord</Region>
@@ -16,7 +17,7 @@
     <Ultimate>Glacial Storm</Ultimate>
   </data>
   <data>
-    <Champion>Annie</Champion>
+    <NME>Annie</NME>
     <Title>The Dark Child</Title>
     <Sex>Female</Sex>
     <Region>Runeterra</Region>
@@ -24,7 +25,7 @@
     <Ultimate>Summon:Tibbers</Ultimate>
   </data>
   <data>
-    <Champion>Blitzcrank</Champion>
+    <NME>Blitzcrank</NME>
     <Title>The Great Steam Golem</Title>
     <Sex>Male</Sex>
     <Region>Zaun</Region>
@@ -32,7 +33,7 @@
     <Ultimate>Static Field</Ultimate>
   </data>
   <data>
-    <Champion>Caitlyn</Champion>
+    <NME>Caitlyn</NME>
     <Title>The Sheriff Of Piltover</Title>
     <Sex>Female</Sex>
     <Region>Piltover</Region>
@@ -40,7 +41,7 @@
     <Ultimate>Ace in the Hole</Ultimate>
   </data>
   <data>
-    <Champion>Cassiopeia</Champion>
+    <NME>Cassiopeia</NME>
     <Title>The Serpent's Embrace</Title>
     <Sex>Female</Sex>
     <Region>Noxus</Region>
@@ -48,7 +49,7 @@
     <Ultimate>Petrifying Gaze</Ultimate>
   </data>
   <data>
-    <Champion>Cho'Gath</Champion>
+    <NME>Cho'Gath</NME>
     <Title>The Terror of the void</Title>
     <Sex>Male</Sex>
     <Region>Void</Region>
@@ -56,7 +57,7 @@
     <Ultimate>Feast</Ultimate>
   </data>
   <data>
-    <Champion>Darius</Champion>
+    <NME>Darius</NME>
     <Title>The Hand Of Noxus</Title>
     <Sex>Male</Sex>
     <Region>Noxus</Region>
@@ -64,7 +65,7 @@
     <Ultimate>Noxian Guillotine</Ultimate>
   </data>
   <data>
-    <Champion>Diana</Champion>
+    <NME>Diana</NME>
     <Title>Scorn Of The Moon</Title>
     <Sex>Female</Sex>
     <Region>Mount Targon</Region>
@@ -72,7 +73,7 @@
     <Ultimate>Lunar Rush</Ultimate>
   </data>
   <data>
-    <Champion>Garen</Champion>
+    <NME>Garen</NME>
     <Title>The Might Of Demacia</Title>
     <Sex>Male</Sex>
     <Region>Demacia</Region>
@@ -80,7 +81,7 @@
     <Ultimate>Demacian Justice</Ultimate>
   </data>
   <data>
-    <Champion>Hecarim</Champion>
+    <NME>Hecarim</NME>
     <Title>The Shadow Of War</Title>
     <Sex>Male</Sex>
     <Region>Shadow Isles</Region>
@@ -88,7 +89,7 @@
     <Ultimate>Onslaught of Shadows</Ultimate>
   </data>
   <data>
-    <Champion>Irelia</Champion>
+    <NME>Irelia</NME>
     <Title>The Blade Dance</Title>
     <Sex>Female</Sex>
     <Region>Ionia</Region>
@@ -96,7 +97,7 @@
     <Ultimate>Vanguard's Edge</Ultimate>
   </data>
   <data>
-    <Champion>Janna</Champion>
+    <NME>Janna</NME>
     <Title>The Storm's Fury</Title>
     <Sex>Female</Sex>
     <Region>Zaun</Region>
@@ -104,7 +105,7 @@
     <Ultimate>Monsoon</Ultimate>
   </data>
   <data>
-    <Champion>Kassadin</Champion>
+    <NME>Kassadin</NME>
     <Title>The Void Walker</Title>
     <Sex>Male</Sex>
     <Region>Void</Region>
@@ -112,7 +113,7 @@
     <Ultimate>Riftwalk</Ultimate>
   </data>
   <data>
-    <Champion>Leona</Champion>
+    <NME>Leona</NME>
     <Title>The Radiant Dawn</Title>
     <Sex>Female</Sex>
     <Region>Mount Targon</Region>
@@ -120,7 +121,7 @@
     <Ultimate>Solar Flare</Ultimate>
   </data>
   <data>
-    <Champion>Master Yi</Champion>
+    <NME>Master Yi</NME>
     <Title>The Wuju Bladesman</Title>
     <Sex>Male</Sex>
     <Region>Ionia</Region>
@@ -128,7 +129,7 @@
     <Ultimate>Highlander</Ultimate>
   </data>
   <data>
-    <Champion>Nunu</Champion>
+    <NME>Nunu</NME>
     <Title>The Yeti Rider</Title>
     <Sex>Male</Sex>
     <Region>Freljord</Region>
@@ -136,7 +137,7 @@
     <Ultimate>Absolute Zero</Ultimate>
   </data>
   <data>
-    <Champion>Rammus</Champion>
+    <NME>Rammus</NME>
     <Title>The Armordillo</Title>
     <Sex>Male</Sex>
     <Region>Shurima</Region>
@@ -144,7 +145,7 @@
     <Ultimate>Tremors</Ultimate>
   </data>
   <data>
-    <Champion>Rengar</Champion>
+    <NME>Rengar</NME>
     <Title>The Pridestalker</Title>
     <Sex>Male</Sex>
     <Region>Runeterra</Region>
@@ -152,7 +153,7 @@
     <Ultimate>Thrill of the Hunt</Ultimate>
   </data>
   <data>
-    <Champion>Teemo</Champion>
+    <NME>Teemo</NME>
     <Title>The Swift Scout</Title>
     <Sex>Male</Sex>
     <Region>Bandle City</Region>
@@ -160,7 +161,7 @@
     <Ultimate>Noxious Trap</Ultimate>
   </data>
   <data>
-    <Champion>Vayne</Champion>
+    <NME>Vayne</NME>
     <Title>The Night Hunter</Title>
     <Sex>Female</Sex>
     <Region>Demacia</Region>
@@ -168,10 +169,11 @@
     <Ultimate>Final Hour</Ultimate>
   </data>
   <data>
-    <Champion>Zoe</Champion>
+    <NME>Zoe</NME>
     <Title>The Aspect Of Twilight</Title>
     <Sex>Female</Sex>
     <Region>Mount Targon</Region>
     <Role>Mage</Role>
     <Ultimate>Portal Jump</Ultimate>
   </data>
+</champions>
