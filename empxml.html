@@ -78,13 +78,13 @@ function loadXMLDoc() {
 function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
-  var table="<tr><th>Artist</th><th>Title</th></tr>";
-  var x = xmlDoc.getElementsByTagName("CD");
+  var table="<tr><th>Champion</th><th>Title</th></tr>";
+  var x = xmlDoc.getElementsByTagChampion("CD");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
-    x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagChampion("Champion")[0].childNodes[0].nodeValue +
     "</td><td>" +
-    x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagChampion("TITLE")[0].childNodes[0].nodeValue +
     "</td></tr>";
   }
   document.getElementById("demo").innerHTML = table;
