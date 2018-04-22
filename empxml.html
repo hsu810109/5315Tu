@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
   <script type="text/javascript">
     $(document).ready(function(){
-       var t = $('empTable').DataTable();
+       var t = $('#chart').DataTable();
        $.ajax({
             type: "GET",
             url: "empdata.xml", 
@@ -17,12 +17,12 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('name').text(),
-                $(this).find('title').text(),
-                $(this).find('sex').text(),
-                $(this).find('region').text(),
-                $(this).find('role').text(),
-                $(this).find('ultimate').text()
+                $(this).find('Name').text(),
+                $(this).find('Title').text(),
+                $(this).find('Sex').text(),
+                $(this).find('Region').text(),
+                $(this).find('Role').text(),
+                $(this).find('Ultimate').text()
               ] ).draw( false );
              });
             }
@@ -32,7 +32,7 @@
 </head>
 
 <body>
-  <table id="empTable" class="display" cellspacing="0" width="100%">
+  <table id="chart" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
             <th>Name</th>
