@@ -1,8 +1,6 @@
-<!-- Source: http://www.kodingmadesimple.com/2015/07/convert-json-data-html-table-jquery-datatables-plugin.html -->
-<!DOCTYPE html>
 <html>
 <head>
-    <title>Display JSON File Data in Datatables | Example</title>
+    <title>Display JSON File Data in Datatables</title>
     <!-- link datatables css -->
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
 </head>
@@ -11,21 +9,21 @@
         <thead>
             <tr>
                 <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>Title</th>
+                <th>Sex</th>
+                <th>Region</th>
+                <th>Role</th>
+                <th>Ultimate</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
                 <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>Title</th>
+                <th>Sex</th>
+                <th>Region</th>
+                <th>Role</th>
+                <th>Ultimate</th>
             </tr>
         </tfoot>
     </table>
@@ -41,11 +39,11 @@
             "ajax": "empdata.json",
             "columns": [
                 {"data": "name"},
-                {"data": "designation"},
-                {"data": "office"},
-                {"data": "extension"},
-                {"data": "joining_date"},
-                {"data": "salary"}
+                {"data": "title"},
+                {"data": "sex"},
+                {"data": "Region"},
+                {"data": "role"},
+                {"data": "ultimate"}
             ]
         });   
     });
