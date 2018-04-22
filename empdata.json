@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "champion": "Amumu",
+      "name": "Amumu",
       "title": "The Sad Mummy",
       "sex": "Male",
       "region": "Shurima",
@@ -9,7 +9,7 @@
       "ultimate": "Curse Of The Sad Mummy"
     },
     {
-      "champion": "Anivia",
+      "name": "Anivia",
       "title": "The Cryophoenix",
       "sex": "Female",
       "region": "Freljord",
