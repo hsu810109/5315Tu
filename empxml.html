@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
   <script type="text/javascript">
     $(document).ready(function(){
-       var t = $('#chart').DataTable();
+       var t = $('empTable').DataTable();
        $.ajax({
             type: "GET",
             url: "empdata.xml", 
@@ -32,7 +32,7 @@
 </head>
 
 <body>
-  <table id="chart" class="display" cellspacing="0" width="100%">
+  <table id="empTable" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
             <th>Name</th>
