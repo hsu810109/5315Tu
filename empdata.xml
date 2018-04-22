@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-  <champions>
   <data>
     <name>Amumu</name>
     <title>The Sad Mummy</title>
@@ -176,5 +175,4 @@
     <role>Mage</role>
     <ultimate>Portal Jump</ultimate>
   </data>
-</champions>
   
