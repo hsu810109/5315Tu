@@ -143,38 +143,7 @@
       "Region": "Shurima",
       "Role": "Tank",
       "Ultimate": "Tremors"
-    },
-    {
-      "Champion": "Rengar",
-      "Title": "The Pridestalker",
-      "Sex": "Male",
-      "Region": "Runeterra",
-      "Role": "Assassin",
-      "Ultimate": "Thrill of the Hunt"
-    },
-    {
-      "Champion": "Teemo",
-      "Title": "The Swift Scout",
-      "Sex": "Male",
-      "Region": "Bandle City",
-      "Role": "Marksman",
-      "Ultimate": "Noxious Trap"
-    },
-    {
-      "Champion": "Vayne",
-      "Title": "The Night Hunter",
-      "Sex": "Female",
-      "Region": "Demacia",
-      "Role": "Marksman",
-      "Ultimate": "Final Hour"
-    },
-    {
-      "Champion": "Zoe",
-      "Title": "The Aspect Of Twilight",
-      "Sex": "Female",
-      "Region": "Mount Targon",
-      "Role": "Mage",
-      "Ultimate": "Portal Jump"
+
   
     }
   ]
