@@ -7,13 +7,13 @@
   <!-- load datatables js library -->
   <script src="https://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
   <!-- link datatables css -->
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
   <script type="text/javascript">
     $(document).ready(function(){
        var t = $('#chart').DataTable();
        $.ajax({
             type: "GET",
-            url: "empdata.xml", 
+            url: "cd_catalog.xml", 
             dataType: "xml",
             success: function(xml) {  
              $(xml).find('data').each(function(){  
