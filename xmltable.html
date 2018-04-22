@@ -1,4 +1,3 @@
-<!-- Source: http://ecis.seattleu.edu/lee/5315/jsonxml/xmltable.html -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,12 +17,12 @@
             success: function(xml) {  
              $(xml).find('CD').each(function(){  
               t.row.add( [
-                $(this).find('ARTIST').text(),
+                $(this).find('NAME').text(),
                 $(this).find('TITLE').text(),
-                $(this).find('YEAR').text(),
-                $(this).find('PRICE').text(),
-                $(this).find('COMPANY').text(),
-                $(this).find('COUNTRY').text()
+                $(this).find('SEX').text(),
+                $(this).find('REGION').text(),
+                $(this).find('ROLE').text(),
+                $(this).find('ULTIMATE').text()
               ] ).draw( false );
              });
             }
@@ -36,23 +35,23 @@
   <table id="chart" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>Artist</th>
+            <th>Name</th>
             <th>Title</th>
-            <th>Year</th>
-            <th>Price</th>
-            <th>Company</th>
-            <th>Country</th>
+            <th>Sex</th>
+            <th>Region</th>
+            <th>Role</th>
+            <th>Ultimate</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
-            <th>Artist</th>
+            <th>Name</th>
             <th>Title</th>
-            <th>Year</th>
-            <th>Price</th>
-            <th>Company</th>
-            <th>Country</th>
+            <th>Sex</th>
+            <th>Region</th>
+            <th>Role</th>
+            <th>Ultimate</th>
         </tr>
     </tfoot>
   </table>
