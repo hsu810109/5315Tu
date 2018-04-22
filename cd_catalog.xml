@@ -49,163 +49,131 @@
 		<ULTIMATE>Petrifying Gaze</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Sylvias Mother</NAME>
-		<TITLE>Dr.Hook</TITLE>
-		<SEX>UK</SEX>
-		<REGION>CBS</REGION>
-		<ROLE>8.10</ROLE>
-		<ULTIMATE>1973</ULTIMATE>
+		<NAME>Cho'Gath</NAME>
+		<TITLE>The Terror of the void</TITLE>
+		<SEX>Male</SEX>
+		<REGION>Void</REGION>
+		<ROLE>Tank</ROLE>
+		<ULTIMATE>Feast</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Maggie May</NAME>
-		<TITLE>Rod Stewart</TITLE>
-		<SEX>UK</SEX>
-		<REGION>Pickwick</REGION>
-		<ROLE>8.50</ROLE>
-		<ULTIMATE>1990</ULTIMATE>
+		<NAME>Darius</NAME>
+		<TITLE>The Hand Of Noxus</TITLE>
+		<SEX>Male</SEX>
+		<REGION>Noxus</REGION>
+		<ROLE>Fighter</ROLE>
+		<ULTIMATE>Noxian Guillotine</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Romanza</NAME>
-		<TITLE>Andrea Bocelli</TITLE>
-		<SEX>EU</SEX>
-		<REGION>Polydor</REGION>
-		<ROLE>10.80</ROLE>
-		<ULTIMATE>1996</ULTIMATE>
+		<NAME>Diana</NAME>
+		<TITLE>Scorn Of The Moon</TITLE>
+		<SEX>Female</SEX>
+		<REGION>Mount Targon</REGION>
+		<ROLE>Fighter</ROLE>
+		<ULTIMATE>Lunar Rush</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>When a man loves a woman</NAME>
-		<TITLE>Percy Sledge</TITLE>
-		<SEX>USA</SEX>
-		<REGION>Atlantic</REGION>
-		<ROLE>8.70</ROLE>
-		<ULTIMATE>1987</ULTIMATE>
+		<NAME>Garen</NAME>
+		<TITLE>The Might Of Demacia</TITLE>
+		<SEX>Male</SEX>
+		<REGION>Demacia</REGION>
+		<ROLE>Fighter</ROLE>
+		<ULTIMATE>Demacian Justice</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Black angel</NAME>
-		<TITLE>Savage Rose</TITLE>
-		<SEX>EU</SEX>
-		<REGION>Mega</REGION>
-		<ROLE>10.90</ROLE>
-		<ULTIMATE>1995</ULTIMATE>
+		<NAME>Hecarim</NAME>
+		<TITLE>The Shadow Of War</TITLE>
+		<SEX>Male</SEX>
+		<REGION>Shadow Isles</REGION>
+		<ROLE>Fighter</ROLE>
+		<ULTIMATE>Onslaught of Shadows</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>1999 Grammy Nominees</NAME>
-		<TITLE>Many</TITLE>
-		<SEX>USA</SEX>
-		<REGION>Grammy</REGION>
-		<ROLE>10.20</ROLE>
-		<ULTIMATE>1999</ULTIMATE>
+		<NAME>Irelia</NAME>
+		<TITLE>The Blade Dance</TITLE>
+		<SEX>Female</SEX>
+		<REGION>Ionia</REGION>
+		<ROLE>Fighter</ROLE>
+		<ULTIMATE>Vanguard's Edge</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>For the good times</NAME>
-		<TITLE>Kenny Rogers</TITLE>
-		<SEX>UK</SEX>
-		<REGION>Mucik Master</REGION>
-		<ROLE>8.70</ROLE>
-		<ULTIMATE>1995</ULTIMATE>
+		<NAME>Janna</NAME>
+		<TITLE>The Storm's Fury</TITLE>
+		<SEX>Female</SEX>
+		<REGION>Zaun</REGION>
+		<ROLE>Support</ROLE>
+		<ULTIMATE>Monsoon</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Big Willie style</NAME>
-		<TITLE>Will Smith</TITLE>
-		<SEX>USA</SEX>
-		<REGION>Columbia</REGION>
-		<ROLE>9.90</ROLE>
-		<ULTIMATE>1997</ULTIMATE>
+		<NAME>Kassadin</NAME>
+		<TITLE>The Void Walker</TITLE>
+		<SEX>Male</SEX>
+		<REGION>Void</REGION>
+		<ROLE>Assassin</ROLE>
+		<ULTIMATE>Riftwalk</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Tupelo Honey</NAME>
-		<TITLE>Van Morrison</TITLE>
-		<SEX>UK</SEX>
-		<REGION>Polydor</REGION>
-		<ROLE>8.20</ROLE>
-		<ULTIMATE>1971</ULTIMATE>
+		<NAME>Leona</NAME>
+		<TITLE>The Radiant Dawn</TITLE>
+		<SEX>Female</SEX>
+		<REGION>Mount Targon</REGION>
+		<ROLE>Tank</ROLE>
+		<ULTIMATE>Solar Flare</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Soulsville</NAME>
-		<TITLE>Jorn Hoel</TITLE>
-		<SEX>Norway</SEX>
-		<REGION>WEA</REGION>
-		<ROLE>7.90</ROLE>
-		<ULTIMATE>1996</ULTIMATE>
+		<NAME>Master Yi</NAME>
+		<TITLE>The Wuju Bladesman</TITLE>
+		<SEX>Male</SEX>
+		<REGION>Ionia</REGION>
+		<ROLE>Assassin</ROLE>
+		<ULTIMATE>Highlander</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>The very best of</NAME>
-		<TITLE>Cat Stevens</TITLE>
-		<SEX>UK</SEX>
-		<REGION>Island</REGION>
-		<ROLE>8.90</ROLE>
-		<ULTIMATE>1990</ULTIMATE>
+		<NAME>Nunu</NAME>
+		<TITLE>The Yeti Rider</TITLE>
+		<SEX>Male</SEX>
+		<REGION>Freljord</REGION>
+		<ROLE>Support</ROLE>
+		<ULTIMATE>Absolute Zero</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Stop</NAME>
-		<TITLE>Sam Brown</TITLE>
-		<SEX>UK</SEX>
-		<REGION>A and M</REGION>
-		<ROLE>8.90</ROLE>
-		<ULTIMATE>1988</ULTIMATE>
+		<NAME>Rammus</NAME>
+		<TITLE>The Armordillo</TITLE>
+		<SEX>Male</SEX>
+		<REGION>Shurima</REGION>
+		<ROLE>Tank</ROLE>
+		<ULTIMATE>Tremors</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Bridge of Spies</NAME>
-		<TITLE>T'Pau</TITLE>
-		<SEX>UK</SEX>
-		<REGION>Siren</REGION>
-		<ROLE>7.90</ROLE>
-		<ULTIMATE>1987</ULTIMATE>
+		<NAME>Rengar</NAME>
+		<TITLE>The Pridestalker</TITLE>
+		<SEX>Male</SEX>
+		<REGION>Runeterra</REGION>
+		<ROLE>Assassin</ROLE>
+		<ULTIMATE>Thrill of the Hunt</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Private Dancer</NAME>
-		<TITLE>Tina Turner</TITLE>
-		<SEX>UK</SEX>
-		<REGION>Capitol</REGION>
-		<ROLE>8.90</ROLE>
-		<ULTIMATE>1983</ULTIMATE>
+		<NAME>Teemo</NAME>
+		<TITLE>The Swift Scout</TITLE>
+		<SEX>Male</SEX>
+		<REGION>Bandle City</REGION>
+		<ROLE>Marksman</ROLE>
+		<ULTIMATE>Noxious Trap</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Midt om natten</NAME>
-		<TITLE>Kim Larsen</TITLE>
-		<SEX>EU</SEX>
-		<REGION>Medley</REGION>
-		<ROLE>7.80</ROLE>
-		<ULTIMATE>1983</ULTIMATE>
+		<NAME>Vayne</NAME>
+		<TITLE>The Night Hunter</TITLE>
+		<SEX>Female</SEX>
+		<REGION>Demacia</REGION>
+		<ROLE>Marksman</ROLE>
+		<ULTIMATE>Noxious Trap</ULTIMATE>
 	</CD>
 	<CD>
-		<NAME>Pavarotti Gala Concert</NAME>
-		<TITLE>Luciano Pavarotti</TITLE>
-		<SEX>UK</SEX>
-		<REGION>DECCA</REGION>
-		<ROLE>9.90</ROLE>
-		<ULTIMATE>1991</ULTIMATE>
-	</CD>
-	<CD>
-		<NAME>The dock of the bay</NAME>
-		<TITLE>Otis Redding</TITLE>
-		<SEX>USA</SEX>
-		<REGION>Atlantic</REGION>
-		<ROLE>7.90</ROLE>
-		<ULTIMATE>1987</ULTIMATE>
-	</CD>
-	<CD>
-		<NAME>Picture book</NAME>
-		<TITLE>Simply Red</TITLE>
-		<SEX>EU</SEX>
-		<REGION>Elektra</REGION>
-		<ROLE>7.20</ROLE>
-		<ULTIMATE>1985</ULTIMATE>
-	</CD>
-	<CD>
-		<NAME>Red</NAME>
-		<TITLE>The Communards</TITLE>
-		<SEX>UK</SEX>
-		<REGION>London</REGION>
-		<ROLE>7.80</ROLE>
-		<ULTIMATE>1987</ULTIMATE>
-	</CD>
-	<CD>
-		<NAME>Unchain my heart</NAME>
-		<TITLE>Joe Cocker</TITLE>
-		<SEX>USA</SEX>
-		<REGION>EMI</REGION>
-		<ROLE>8.20</ROLE>
-		<ULTIMATE>1987</ULTIMATE>
+		<NAME>Zoe</NAME>
+		<TITLE>The Aspect Of Twilight</TITLE>
+		<SEX>Female</SEX>
+		<REGION>Mount Targon</REGION>
+		<ROLE>Mage</ROLE>
+		<ULTIMATE>Portal Jump</ULTIMATE>
 	</CD>
 </CATALOG>
